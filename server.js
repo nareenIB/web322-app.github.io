@@ -6,14 +6,10 @@ I declare that this assignment is my own work in accordance with Seneca  Academi
 Name: __Nareen Ibrahim____________________ 
 Student ID: __169115235____________ 
 Date: __Feb 4, 2025______________
-<<<<<<< HEAD
-Cyclic Web App URL: (Replit) https://9e8aa244-bf08-4716-8f87-26342499db02-00-3ejyfx7cxw7f4.kirk.replit.dev/
-Replit Cover Page URL: https://replit.com/@nibrahim32/web322-app?v=1#package-lock.json
-=======
-Cyclic Web App URL: I used Github Pages https://nareenib.github.io/web322-app.github.io/
->>>>>>> a03ad86a0d4584b1add0895c79dea67388c24920
-GitHub Repository URL: https://github.com/nareenIB/web322-app.git
 
+Cyclic Web App URL: I used Github Pages https://nareenib.github.io/web322-app.github.io/
+Replit Cover Page URL: https://replit.com/@nibrahim32/web322-app?v=1#package-lock.json
+GitHub Repository URL: https://github.com/nareenIB/web322-app.git
 ********************************************************************************/ 
 
 const express = require('express');
