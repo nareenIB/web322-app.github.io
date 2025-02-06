@@ -7,6 +7,7 @@ Name: __Nareen Ibrahim____________________
 Student ID: __169115235____________ 
 Date: __Feb 4, 2025______________
 Cyclic Web App URL: I used Github Pages https://nareenib.github.io/web322-app.github.io/
+Replit Cover Page URL: https://replit.com/@nibrahim32/web322-app?v=1#package-lock.json
 GitHub Repository URL: https://github.com/nareenIB/web322-app.git
 
 ********************************************************************************/ 
