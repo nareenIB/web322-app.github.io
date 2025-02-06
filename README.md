@@ -1,1 +1,1 @@
-This is a program for web322-app class. 
+web322-app is a program for web322 class, owned by Nareen Ibrahim.
